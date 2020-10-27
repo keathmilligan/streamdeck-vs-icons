@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="256"
+   height="256"
+   viewBox="0 0 67.733332 67.733335"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   sodipodi:docname="c#.svg"
+   inkscape:export-filename="C:\Users\keath\Workspace\KMX\elite-streamdeck-icons\ship-lights.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
+  <defs
+     id="defs2">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1014">
+      <rect
+         style="opacity:0.07;fill:#800080;stroke-width:0.286404"
+         id="rect1016"
+         width="81.64286"
+         height="88.824394"
+         x="56.50745"
+         y="100.64066"
+         ry="3.1166456" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3444">
+      <path
+         d="M 11.52,162 C 11.52,81.677 135.307,16.561 288,16.561 v 0 c 152.693,0 276.481,65.116 276.481,145.439 v 0 c 0,80.322 -123.788,145.439 -276.481,145.439 v 0 C 135.307,307.439 11.52,242.322 11.52,162"
+         id="path3446" />
+    </clipPath>
+    <radialGradient
+       cx="0"
+       cy="0"
+       fx="0"
+       fy="0"
+       gradientTransform="matrix(363.05789,0,0,-363.05789,177.52002,256.30713)"
+       gradientUnits="userSpaceOnUse"
+       id="radialGradient3452"
+       r="1"
+       spreadMethod="pad">
+      <stop
+         id="stop3454"
+         offset="0"
+         style="stop-opacity:1;stop-color:#aeb2d5" />
+      <stop
+         id="stop3456"
+         offset="0.3"
+         style="stop-opacity:1;stop-color:#aeb2d5" />
+      <stop
+         id="stop3458"
+         offset="0.75"
+         style="stop-opacity:1;stop-color:#484c89" />
+      <stop
+         id="stop3460"
+         offset="1"
+         style="stop-opacity:1;stop-color:#484c89" />
+    </radialGradient>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3468">
+      <path
+         d="M 0,324 H 576 V 0 H 0 Z"
+         id="path3470" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3480">
+      <path
+         d="M 0,324 H 576 V 0 H 0 Z"
+         id="path3482" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#000000"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="3.959798"
+     inkscape:cx="158.87825"
+     inkscape:cy="124.30592"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer2"
+     showgrid="true"
+     units="px"
+     inkscape:snap-grids="true"
+     objecttolerance="10000"
+     guidetolerance="10000"
+     inkscape:window-width="3840"
+     inkscape:window-height="2066"
+     inkscape:window-x="3829"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:document-rotation="0"
+     showguides="true"
+     inkscape:guide-bbox="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4623" />
+    <sodipodi:guide
+       position="-3.96875,62.441667"
+       orientation="0,256"
+       id="guide3351" />
+    <sodipodi:guide
+       position="62.441667,42.597917"
+       orientation="-1,0"
+       id="guide3353"
+       inkscape:label=""
+       inkscape:locked="false"
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="-2.6458333,22.754167"
+       orientation="0,-256"
+       id="guide3355" />
+    <sodipodi:guide
+       position="5.2916667,70.379167"
+       orientation="-256,0"
+       id="guide3357" />
+    <sodipodi:guide
+       position="0,67.733334"
+       orientation="0,256"
+       id="guide3359" />
+    <sodipodi:guide
+       position="67.733334,67.733334"
+       orientation="256,0"
+       id="guide3361" />
+    <sodipodi:guide
+       position="67.733334,0"
+       orientation="0,-256"
+       id="guide3363" />
+    <sodipodi:guide
+       position="0,0"
+       orientation="-256,0"
+       id="guide3365" />
+    <sodipodi:guide
+       position="0,67.733334"
+       orientation="0,256"
+       id="guide3367" />
+    <sodipodi:guide
+       position="67.733334,67.733334"
+       orientation="256,0"
+       id="guide3369" />
+    <sodipodi:guide
+       position="67.733334,0"
+       orientation="0,-256"
+       id="guide3371" />
+    <sodipodi:guide
+       position="0,0"
+       orientation="-256,0"
+       id="guide3373" />
+    <sodipodi:guide
+       position="0,67.733334"
+       orientation="0,256"
+       id="guide3375" />
+    <sodipodi:guide
+       position="67.733334,67.733334"
+       orientation="256,0"
+       id="guide3377" />
+    <sodipodi:guide
+       position="67.733334,0"
+       orientation="0,-256"
+       id="guide3379" />
+    <sodipodi:guide
+       position="0,0"
+       orientation="-256,0"
+       id="guide3381" />
+    <sodipodi:guide
+       position="33.866667,46.83125"
+       orientation="1,0"
+       id="guide895" />
+    <sodipodi:guide
+       position="41.010417,42.597917"
+       orientation="0,-1"
+       id="guide897" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Icon">
+    <path
+       id="path6"
+       style="fill:#808080;fill-opacity:1;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 128.14258,25.097656 c -1.94921,0 -3.89839,0.427427 -5.37696,1.28125 L 71.429688,56.015625 c -1.169205,0.674918 -2.250001,1.742199 -3.134766,2.992187 -0.114822,0.16218 -0.227276,0.324838 -0.335938,0.492188 -0.112441,0.17314 -0.220697,0.350128 -0.324218,0.529297 -0.002,0.0032 -0.0036,0.0067 -0.0059,0.0098 -0.02343,0.04044 -0.04358,0.08238 -0.06641,0.123047 -0.07695,0.137424 -0.155054,0.274118 -0.226562,0.414063 -0.08791,0.17212 -0.171185,0.346575 -0.251954,0.521484 -0.0028,0.006 -0.0052,0.01115 -0.0078,0.01758 -0.640498,1.391838 -1.023438,2.864264 -1.023438,4.214844 v 59.275392 c 0,1.35046 0.383065,2.81959 1.023438,4.21094 L 91.707031,114.5957 C 88.545676,108.75109 86.75,102.06702 86.75,94.96875 c 0,-22.823928 18.56866,-41.392578 41.39258,-41.392578 14.32483,0 27.70799,7.498874 35.22265,19.648437 l 11.60938,-6.703125 13.01367,-7.513672 c -0.88451,-1.249795 -1.96594,-2.317141 -3.13476,-2.992187 L 133.51953,26.378906 c -1.47856,-0.853823 -3.42775,-1.28125 -5.37695,-1.28125 z m 61.06445,36.019532 -58.62891,33.849609 58.63086,33.851563 c 0.6402,-1.39126 1.02149,-2.86252 1.02149,-4.21289 V 65.330078 c 0,-1.350671 -0.38288,-2.821348 -1.02344,-4.21289 z m -61.06445,13.154296 c -11.41217,0 -20.69727,9.285096 -20.69727,20.697266 0,3.332077 0.79625,6.47834 2.20117,9.26953 l 35.7793,-20.656249 c -3.81536,-5.771421 -10.32785,-9.310547 -17.2832,-9.310547 z m 39.63672,3.513672 h 5.20898 l -1.82812,7.335938 H 176.75 l 1.84961,-7.335938 h 5.20898 l -1.84961,7.335938 h 5.42188 v 5.082031 h -6.71875 l -1.6582,6.611328 H 185 v 5.101567 h -7.27148 l -1.9336,7.52734 h -5.125 l 1.89258,-7.52734 h -5.61328 l -1.89258,7.52734 h -5.20898 l 1.91406,-7.52734 h -5.74024 v -5.101567 h 7.01563 l 1.63672,-6.611328 h -6.22852 v -5.082031 h 7.50586 z m 2.08398,12.375 -1.70117,6.71875 h 5.71875 l 1.67969,-6.71875 z m -41.7207,6.212891 -17.27539,9.974613 c 3.70645,5.6078 10.06471,9.3164 17.27539,9.3164 6.95611,0 13.46943,-3.53811 17.28515,-9.31054 z m -35.212892,20.330073 -22.671876,13.08985 -1.964843,1.13476 c 0.88487,1.25001 1.967563,2.31532 3.136719,2.99024 l 51.335932,29.63867 c 2.95714,1.70764 7.79678,1.70764 10.75391,0 l 51.33399,-29.63867 c 1.16959,-0.67531 2.25189,-1.74183 3.13671,-2.99219 l -24.62304,-14.21484 c -7.5148,12.15017 -20.89936,19.65039 -35.22461,19.65039 -14.85661,0 -27.90979,-7.87071 -35.212892,-19.65821 z"
+       transform="scale(0.26458333)" />
+    <path
+       style="fill:#000000;stroke-width:1"
+       id="path909"
+       d="" />
+  </g>
+</svg>

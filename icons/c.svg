@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="256"
+   height="256"
+   viewBox="0 0 67.733332 67.733335"
+   version="1.1"
+   id="svg8"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   sodipodi:docname="c.svg"
+   inkscape:export-filename="C:\Users\keath\Workspace\KMX\elite-streamdeck-icons\ship-lights.png"
+   inkscape:export-xdpi="96"
+   inkscape:export-ydpi="96">
+  <defs
+     id="defs2">
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath1014">
+      <rect
+         style="opacity:0.07;fill:#800080;stroke-width:0.286404"
+         id="rect1016"
+         width="81.64286"
+         height="88.824394"
+         x="56.50745"
+         y="100.64066"
+         ry="3.1166456" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3444">
+      <path
+         d="M 11.52,162 C 11.52,81.677 135.307,16.561 288,16.561 v 0 c 152.693,0 276.481,65.116 276.481,145.439 v 0 c 0,80.322 -123.788,145.439 -276.481,145.439 v 0 C 135.307,307.439 11.52,242.322 11.52,162"
+         id="path3446" />
+    </clipPath>
+    <radialGradient
+       cx="0"
+       cy="0"
+       fx="0"
+       fy="0"
+       gradientTransform="matrix(363.05789,0,0,-363.05789,177.52002,256.30713)"
+       gradientUnits="userSpaceOnUse"
+       id="radialGradient3452"
+       r="1"
+       spreadMethod="pad">
+      <stop
+         id="stop3454"
+         offset="0"
+         style="stop-opacity:1;stop-color:#aeb2d5" />
+      <stop
+         id="stop3456"
+         offset="0.3"
+         style="stop-opacity:1;stop-color:#aeb2d5" />
+      <stop
+         id="stop3458"
+         offset="0.75"
+         style="stop-opacity:1;stop-color:#484c89" />
+      <stop
+         id="stop3460"
+         offset="1"
+         style="stop-opacity:1;stop-color:#484c89" />
+    </radialGradient>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3468">
+      <path
+         d="M 0,324 H 576 V 0 H 0 Z"
+         id="path3470" />
+    </clipPath>
+    <clipPath
+       clipPathUnits="userSpaceOnUse"
+       id="clipPath3480">
+      <path
+         d="M 0,324 H 576 V 0 H 0 Z"
+         id="path3482" />
+    </clipPath>
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#000000"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="3.959798"
+     inkscape:cx="260.14604"
+     inkscape:cy="16.472132"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer2"
+     showgrid="true"
+     units="px"
+     inkscape:snap-grids="true"
+     objecttolerance="10000"
+     guidetolerance="10000"
+     inkscape:window-width="3840"
+     inkscape:window-height="2066"
+     inkscape:window-x="3829"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:document-rotation="0"
+     showguides="true"
+     inkscape:guide-bbox="true">
+    <inkscape:grid
+       type="xygrid"
+       id="grid4623" />
+    <sodipodi:guide
+       position="-3.96875,62.441667"
+       orientation="0,256"
+       id="guide3351" />
+    <sodipodi:guide
+       position="62.441667,42.597917"
+       orientation="-1,0"
+       id="guide3353"
+       inkscape:label=""
+       inkscape:locked="false"
+       inkscape:color="rgb(0,0,255)" />
+    <sodipodi:guide
+       position="-2.6458333,22.754167"
+       orientation="0,-256"
+       id="guide3355" />
+    <sodipodi:guide
+       position="5.2916667,70.379167"
+       orientation="-256,0"
+       id="guide3357" />
+    <sodipodi:guide
+       position="0,67.733334"
+       orientation="0,256"
+       id="guide3359" />
+    <sodipodi:guide
+       position="67.733334,67.733334"
+       orientation="256,0"
+       id="guide3361" />
+    <sodipodi:guide
+       position="67.733334,0"
+       orientation="0,-256"
+       id="guide3363" />
+    <sodipodi:guide
+       position="0,0"
+       orientation="-256,0"
+       id="guide3365" />
+    <sodipodi:guide
+       position="0,67.733334"
+       orientation="0,256"
+       id="guide3367" />
+    <sodipodi:guide
+       position="67.733334,67.733334"
+       orientation="256,0"
+       id="guide3369" />
+    <sodipodi:guide
+       position="67.733334,0"
+       orientation="0,-256"
+       id="guide3371" />
+    <sodipodi:guide
+       position="0,0"
+       orientation="-256,0"
+       id="guide3373" />
+    <sodipodi:guide
+       position="0,67.733334"
+       orientation="0,256"
+       id="guide3375" />
+    <sodipodi:guide
+       position="67.733334,67.733334"
+       orientation="256,0"
+       id="guide3377" />
+    <sodipodi:guide
+       position="67.733334,0"
+       orientation="0,-256"
+       id="guide3379" />
+    <sodipodi:guide
+       position="0,0"
+       orientation="-256,0"
+       id="guide3381" />
+    <sodipodi:guide
+       position="33.866667,46.83125"
+       orientation="1,0"
+       id="guide895" />
+    <sodipodi:guide
+       position="41.010417,42.597917"
+       orientation="0,-1"
+       id="guide897" />
+  </sodipodi:namedview>
+  <metadata
+     id="metadata5">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Icon">
+    <path
+       id="path6"
+       style="fill:#808080;fill-opacity:1;stroke-width:0.264584;stroke-miterlimit:4;stroke-dasharray:none"
+       d="m 33.904159,6.6403824 c -0.515728,0 -1.031454,0.1129804 -1.422658,0.3388877 L 18.899154,14.82087 c -0.309352,0.178572 -0.59551,0.460711 -0.829604,0.791437 -0.03038,0.04291 -0.06017,0.08637 -0.08892,0.130648 -0.02975,0.04581 -0.05839,0.09247 -0.08578,0.139875 -5.16e-4,8.59e-4 -8.94e-4,0.0018 -0.0015,0.0026 -0.0062,0.0107 -0.01157,0.02175 -0.01761,0.03251 -0.02036,0.03636 -0.04064,0.07265 -0.05956,0.109677 -0.02326,0.04554 -0.04532,0.09171 -0.06669,0.137988 -7.28e-4,0.0016 -0.0016,0.003 -0.0023,0.0047 -0.169465,0.368257 -0.27073,0.757464 -0.27073,1.114805 v 15.683409 c 0,0.35731 0.1013,0.746261 0.270732,1.114387 l 6.516877,-3.762575 c -0.836442,-1.546387 -1.311703,-3.315341 -1.311703,-5.193426 0,-6.038831 4.912946,-10.951775 10.951775,-10.951775 3.790112,0 7.331365,1.984082 9.31962,5.198654 l 3.071747,-1.773506 3.443191,-1.988029 C 49.504672,15.281574 49.218429,14.99946 48.909177,14.820854 L 35.326815,6.9792701 C 34.935612,6.7533628 34.419885,6.6403824 33.904159,6.6403824 Z M 50.061087,16.170548 34.5488,25.126745 50.061297,34.082941 c 0.169385,-0.368103 0.270524,-0.757103 0.270524,-1.114388 V 17.285144 c 0,-0.357365 -0.101253,-0.746417 -0.270734,-1.114596 z m -16.156928,3.480519 c -3.01947,0 -5.475888,2.456419 -5.475888,5.475889 0,0.881612 0.210639,1.714447 0.582359,2.452949 l 9.466625,-5.465611 c -1.009481,-1.527022 -2.732827,-2.463227 -4.573096,-2.463227 z m 2.14e-4,5.8477 -4.57079,2.638962 c 0.980666,1.483731 2.662753,2.465113 4.570579,2.465113 1.840471,0 3.56394,-0.936355 4.573517,-2.463646 z m -9.316474,5.379001 -5.998898,3.463324 -0.519655,0.300091 c 0.234122,0.33073 0.520474,0.612864 0.829813,0.791436 l 13.582348,7.84181 c 0.782408,0.451814 2.062906,0.451814 2.845314,0 l 13.582348,-7.84181 c 0.309455,-0.178675 0.595705,-0.460821 0.829814,-0.791645 l -6.514994,-3.761318 c -1.988291,3.214733 -5.529606,5.199073 -9.31983,5.199073 -3.93081,0 -7.383986,-2.082185 -9.316264,-5.200961 z m -6.696391,3.486811 c 8.94e-4,0.0018 0.0018,0.0036 0.0029,0.0054 v 2.15e-4 c 0.0017,0.0029 0.0034,0.0057 0.0053,0.0085 l -0.0051,-0.0088 v -2.15e-4 z" />
+    <path
+       style="fill:#000000;stroke-width:1"
+       id="path909"
+       d="" />
+  </g>
+</svg>
