@@ -3,6 +3,7 @@ Stream Deck Icon Pack for Visual Studio & Visual Studio Code
 
 Themeable, language-neutral icons for the Stream Deck Visual Studio and Visual Studio Code.
 
+![streamdeck](images/streamdeck-vs-pic.jpg)
 ![icons](images/Blue.png)
 
 This project contains icons for use with the [Elgato Stream Deck](https://www.elgato.com/en/gaming/stream-deck)
