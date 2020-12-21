@@ -19,7 +19,7 @@ family of programmable LCD button boxes that are designed to work with the [Visu
 
 First, install the [Stream Deck Visual Studio Plug-In](https://github.com/nicollasricas/streamdeckvs) if you haven't already, then install the Stream Deck for Visual Studio Code extension from the VS Code extension marketplace.
 
-Download the latest release of the icon pack from the [Releases]() page.
+Download the latest release of the icon pack from the [Releases](https://github.com/keathmilligan/streamdeck-vs-icons/releases) page.
 
 To use the icons, copy the icon set of your choice to your Documents folder or some other convenient location then use the Stream Deck configuration application to drag actions onto the panel layout.
 
